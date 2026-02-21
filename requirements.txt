@@ -1,0 +1,4 @@
+revolutx-crypto-api @ git+https://github.com/bukowski12/revolutx_crypto_api.git
+textual>=0.47.0
+plotext>=5.2.0
+python-dotenv>=1.0.0
