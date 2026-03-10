@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database
+dca_bot/db/*.db
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
