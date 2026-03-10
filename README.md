@@ -4,6 +4,9 @@ A fully automated, customizable **Dollar Cost Averaging (DCA)** bot built for th
 
 The bot includes a beautiful **TUI (Text-Based User Interface) dashboard** that runs directly in your terminal, making it easy to manage your investment strategies, track your current portfolio, and review past orders.
 
+<img width="1771" height="1044" alt="Image" src="https://github.com/user-attachments/assets/05d9e618-3428-4ef7-820b-a2dc8d41acec" />
+<img width="1770" height="1043" alt="Image" src="https://github.com/user-attachments/assets/675d6bc8-9775-4765-9ca9-1bb543cd02d2" />
+
 ## Features
 
 - **TUI Dashboard:** A sleek, fully featured terminal-based dashboard built with `textual` for real-time portfolio management. 
