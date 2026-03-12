@@ -32,7 +32,7 @@ The bot includes a beautiful **TUI (Text-Based User Interface) dashboard** that 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/bukowski12/revolut_dca_bot
    cd revolut_dca_bot
    ```
 
